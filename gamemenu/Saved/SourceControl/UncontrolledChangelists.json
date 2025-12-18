@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/NewWorld.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/mainmenu.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/LevelEnd.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/Main.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/enemy.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/U2/6N9S6BV6980YE1FQDZR1IP.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/Game-Menu/gamemenu/Content/akhri.uasset"
+			]
+		}
+	]
+}
